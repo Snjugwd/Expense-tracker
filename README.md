@@ -30,8 +30,8 @@ Expense-tracker/
 ├── script.js 
 └── README.md 
 
-## Deployment
-
+## Deployment-live link
+https://snjugwd.github.io/Expense-tracker/
 ## Author 
 Sanjan G R  
 GitHub: https://github.com/YOUR-USERNAME
